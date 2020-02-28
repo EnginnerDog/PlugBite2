@@ -1,2 +1,5 @@
+![TF2Gamemode](https://cdn.discordapp.com/attachments/536656836280188928/682989442339700782/logo.png)
 ## Team Fortress 2 Gamemode
-Work in progress remake of an old Garry's Mod 12 gamemode.
+Team Fortress 2 CTF, CP, HL2 Co-op and more, with Garry's Mod addons supported!
+### Install
+Download Team Fortress 2 Gamemode from [here](https://github.com/Moddage/TF2-Gamemode/archive/new.zip), and drop TF2-Gamemode-new into the addons folder.
