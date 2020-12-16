@@ -2,8 +2,8 @@ if SERVER then
 	AddCSLuaFile( "shared.lua" )
 end
 
-	SWEP.PrintName			= "Bat"
-SWEP.Slot				= 2
+	SWEP.PrintName			= "Deathbat"
+SWEP.Slot				= 3
 
 SWEP.Base				= "tf_weapon_melee_base"
 
