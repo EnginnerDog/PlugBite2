@@ -3,7 +3,7 @@
 local IgnoredClasses = {
 	[CLASS_FLARE] = 1,
 	[CLASS_EARTH_FAUNA] = 1,
-	[CLASS_BULLSEYE] = 1,
+	[CLASS_BULLSEYE] = 2,
 }
 
 local function CalcRelationship(ent1, ent2)
